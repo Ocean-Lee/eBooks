@@ -7,3 +7,11 @@ wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.
 tall/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh 
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+
+
+服务端
+https://zhuanlan.zhihu.com/p/28645724
+https://blog.csdn.net/yeshennet/article/details/79397651
+https://www.cnblogs.com/cc11001100/p/9949729.html
+https://i-meto.com/pipe-demo/
+https://sexywp.com/socks-protocol.htm
